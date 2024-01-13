@@ -3,5 +3,5 @@
 **Eric 'Oz' Andren**  
 handle: @ozpoo  
 email: oz@iastate.edu  
-website: [https://ozp.ooo](https://ozp.ooo)
-![Eric 'Oz' Andren](headshots/oz-andren.jpg)
+website: [https://ozp.ooo](https://ozp.ooo)  
+![Eric 'Oz' Andren](head-shots/oz-andren.jpg)
