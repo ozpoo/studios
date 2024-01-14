@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:56:35	3674/3674	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2014%20Jan%202024%2002:56:34%20GMT	https://p5-example-lerp.glitch.me/robots.txt		(from )
+20:56:36	355/355	---M--	200	added ('OK')	text/html	etag:%222c5d99c771808f3a7fbd7743d6a79097%22	https://p5-example-lerp.glitch.me/	p5-example-lerp.glitch.me/index.html	(from )
+20:56:36	1448/1448	---M--	200	added ('OK')	application/javascript	etag:%22a6ac97200e382c2a4da48e75ab66380b%22	https://p5-example-lerp.glitch.me/sketch.js	p5-example-lerp.glitch.me/sketch.js	(from https://p5-example-lerp.glitch.me/)
